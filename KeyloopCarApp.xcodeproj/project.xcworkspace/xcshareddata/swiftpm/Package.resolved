@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ColorKit",
+        "repositoryURL": "https://github.com/Boris-Em/ColorKit.git",
+        "state": {
+          "branch": null,
+          "revision": "d9c3a546c40f31b5f2c624603fa03f56904e2dc2",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "Nuke",
+        "repositoryURL": "https://github.com/kean/Nuke.git",
+        "state": {
+          "branch": null,
+          "revision": "7f73ceaeacd5df75a7994cd82e165ad9ff1815db",
+          "version": "9.6.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

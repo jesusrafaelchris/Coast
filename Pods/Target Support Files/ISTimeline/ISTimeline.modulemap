@@ -1,0 +1,6 @@
+framework module ISTimeline {
+  umbrella header "ISTimeline-umbrella.h"
+
+  export *
+  module * { export * }
+}
